@@ -1,2 +1,13 @@
 # CODTECH_TASK-4
 E-LEARNING PLATFORM UI
+COMPANY: CODTECH IT SOLUTIONS
+NAME: KIRAN KUMAR M 
+INTERN ID: CITS0D861
+DOMAIN: FRONT END DEVELOPMENT
+DURATION: 4 WEEEKS
+MENTOR: NEELA SANTOSH KUMAR
+OUTPUT:
+![Screenshot (304)](https://github.com/user-attachments/assets/2132dd00-cdb9-49d6-99f7-47547022e2c2)
+![Screenshot (305)](https://github.com/user-attachments/assets/13e4b51e-17ae-4556-9709-7e9ea604df6b)
+
+
